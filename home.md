@@ -1,1 +1,1 @@
-I am staged dev content.
+I am staged content.
