@@ -23,6 +23,7 @@
  */
 function pre(context) {
   context.content.time = `${new Date()}`;
+  context.content.name = 'Rikio';
 }
 
 module.exports.pre = pre;

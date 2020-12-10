@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="/style.css"/>
 </head>
 <body>
-
+${content.name}
 ${content.document.body.innerHTML}
 
 <hr>
